@@ -1,10 +1,9 @@
 {
   "engines": {
-    "node": "20.x"
+    "node": "19.9.0"
   },
-  "name": "majorproject",
+  "name": "a",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -32,5 +31,7 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
